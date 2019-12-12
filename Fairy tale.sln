@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fairy tale", "Fairy tale.csproj", "{FD2499EB-C1C9-4704-AE4B-F79B1EA27C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2499EB-C1C9-4704-AE4B-F79B1EA27C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2499EB-C1C9-4704-AE4B-F79B1EA27C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2499EB-C1C9-4704-AE4B-F79B1EA27C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2499EB-C1C9-4704-AE4B-F79B1EA27C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180F2771-8D94-4F9F-9F7E-2A2CDE08F537}
+	EndGlobalSection
+EndGlobal
